@@ -1,0 +1,5479 @@
+[{
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 2,
+	"dateOfBirth": 85,
+	"nationality": 2,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 3,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 5,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 6,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 7,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 8,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 9,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 1,
+	"dateOfBirth": 82,
+	"nationality": 3,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 1,
+	"dateOfBirth": 84,
+	"nationality": 4,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 9,
+	"dateOfBirth": 90,
+	"nationality": 5,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 10,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 6,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 1,
+	"dateOfBirth": 97,
+	"nationality": 7,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 8,
+	"marketValue": null,
+	"teamId": 30
+}, {
+	"position": 3,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 45000000,
+	"teamId": 5
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 5
+}, {
+	"position": 3,
+	"dateOfBirth": 81,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 5
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 45000000,
+	"teamId": 5
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 5
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 9,
+	"marketValue": 45000000,
+	"teamId": 5
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 10,
+	"marketValue": 18000000,
+	"teamId": 5
+}, {
+	"position": 5,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 13000000,
+	"teamId": 5
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 10,
+	"marketValue": 25000000,
+	"teamId": 5
+}, {
+	"position": 6,
+	"dateOfBirth": 81,
+	"nationality": 10,
+	"marketValue": 4000000,
+	"teamId": 5
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 20000000,
+	"teamId": 5
+}, {
+	"position": 7,
+	"dateOfBirth": 87,
+	"nationality": 11,
+	"marketValue": 40000000,
+	"teamId": 5
+}, {
+	"position": 8,
+	"dateOfBirth": 83,
+	"nationality": 12,
+	"marketValue": 9000000,
+	"teamId": 5
+}, {
+	"position": 9,
+	"dateOfBirth": 96,
+	"nationality": 12,
+	"marketValue": 20000000,
+	"teamId": 5
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 5,
+	"marketValue": 500000,
+	"teamId": 5
+}, {
+	"position": 9,
+	"dateOfBirth": 84,
+	"nationality": 13,
+	"marketValue": 11000000,
+	"teamId": 5
+}, {
+	"position": 8,
+	"dateOfBirth": 90,
+	"nationality": 6,
+	"marketValue": 35000000,
+	"teamId": 5
+}, {
+	"position": 12,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 75000000,
+	"teamId": 5
+}, {
+	"position": 1,
+	"dateOfBirth": 88,
+	"nationality": 14,
+	"marketValue": 75000000,
+	"teamId": 5
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 38000000,
+	"teamId": 5
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 15,
+	"marketValue": 30000000,
+	"teamId": 5
+}, {
+	"position": 6,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 5
+}, {
+	"position": 11,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 5
+}, {
+	"position": 6,
+	"dateOfBirth": 86,
+	"nationality": 16,
+	"marketValue": 800000,
+	"teamId": 10
+}, {
+	"position": 5,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 2000000,
+	"teamId": 10
+}, {
+	"position": 1,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 10
+}, {
+	"position": 5,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 2000000,
+	"teamId": 10
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 17,
+	"marketValue": 1500000,
+	"teamId": 10
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 18,
+	"marketValue": 1500000,
+	"teamId": 10
+}, {
+	"position": 4,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 3500000,
+	"teamId": 10
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 10
+}, {
+	"position": 2,
+	"dateOfBirth": 89,
+	"nationality": 19,
+	"marketValue": 3500000,
+	"teamId": 10
+}, {
+	"position": 2,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 10
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 9,
+	"marketValue": 1500000,
+	"teamId": 10
+}, {
+	"position": 6,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 10
+}, {
+	"position": 7,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 10
+}, {
+	"position": 11,
+	"dateOfBirth": 90,
+	"nationality": 20,
+	"marketValue": 3000000,
+	"teamId": 10
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 350000,
+	"teamId": 10
+}, {
+	"position": 9,
+	"dateOfBirth": 93,
+	"nationality": 21,
+	"marketValue": 600000,
+	"teamId": 10
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 10
+}, {
+	"position": 8,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 10
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 10
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 10
+}, {
+	"position": 12,
+	"dateOfBirth": 93,
+	"nationality": 22,
+	"marketValue": 500000,
+	"teamId": 10
+}, {
+	"position": 1,
+	"dateOfBirth": 94,
+	"nationality": 16,
+	"marketValue": 1500000,
+	"teamId": 10
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 14,
+	"marketValue": 850000,
+	"teamId": 10
+}, {
+	"position": 5,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 10
+}, {
+	"position": 6,
+	"dateOfBirth": 98,
+	"nationality": 23,
+	"marketValue": 100000,
+	"teamId": 10
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 24,
+	"marketValue": 2000000,
+	"teamId": 10
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 10
+}, {
+	"position": 11,
+	"dateOfBirth": 98,
+	"nationality": 25,
+	"marketValue": 100000,
+	"teamId": 10
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 5,
+	"marketValue": 75000,
+	"teamId": 10
+}, {
+	"position": 2,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 31
+}, {
+	"position": 9,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 31
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 31
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 31
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 26,
+	"marketValue": 1000000,
+	"teamId": 31
+}, {
+	"position": 3,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 31
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 12,
+	"marketValue": 750000,
+	"teamId": 31
+}, {
+	"position": 4,
+	"dateOfBirth": 85,
+	"nationality": 27,
+	"marketValue": 1750000,
+	"teamId": 31
+}, {
+	"position": 2,
+	"dateOfBirth": 87,
+	"nationality": 9,
+	"marketValue": 1500000,
+	"teamId": 31
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 31
+}, {
+	"position": 6,
+	"dateOfBirth": 85,
+	"nationality": 6,
+	"marketValue": 1250000,
+	"teamId": 31
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 31
+}, {
+	"position": 6,
+	"dateOfBirth": 88,
+	"nationality": 28,
+	"marketValue": 750000,
+	"teamId": 31
+}, {
+	"position": 7,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 4000000,
+	"teamId": 31
+}, {
+	"position": 7,
+	"dateOfBirth": 90,
+	"nationality": 5,
+	"marketValue": 2000000,
+	"teamId": 31
+}, {
+	"position": 8,
+	"dateOfBirth": 91,
+	"nationality": 17,
+	"marketValue": 2000000,
+	"teamId": 31
+}, {
+	"position": 9,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 31
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 9,
+	"marketValue": 2000000,
+	"teamId": 31
+}, {
+	"position": 1,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 31
+}, {
+	"position": 4,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 31
+}, {
+	"position": 1,
+	"dateOfBirth": 90,
+	"nationality": 29,
+	"marketValue": 3500000,
+	"teamId": 31
+}, {
+	"position": 6,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 31
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 30,
+	"marketValue": 1500000,
+	"teamId": 31
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 31,
+	"marketValue": 100000,
+	"teamId": 31
+}, {
+	"position": 5,
+	"dateOfBirth": 94,
+	"nationality": 24,
+	"marketValue": 3000000,
+	"teamId": 31
+}, {
+	"position": 8,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 32
+}, {
+	"position": 1,
+	"dateOfBirth": 87,
+	"nationality": 9,
+	"marketValue": 550000,
+	"teamId": 32
+}, {
+	"position": 3,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 32
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 32
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 32
+}, {
+	"position": 4,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 32
+}, {
+	"position": 2,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 550000,
+	"teamId": 32
+}, {
+	"position": 2,
+	"dateOfBirth": 94,
+	"nationality": 9,
+	"marketValue": 550000,
+	"teamId": 32
+}, {
+	"position": 5,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 32
+}, {
+	"position": 7,
+	"dateOfBirth": 85,
+	"nationality": 12,
+	"marketValue": 600000,
+	"teamId": 32
+}, {
+	"position": 7,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 32
+}, {
+	"position": 11,
+	"dateOfBirth": 88,
+	"nationality": 16,
+	"marketValue": 1100000,
+	"teamId": 32
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 32
+}, {
+	"position": 5,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 900000,
+	"teamId": 32
+}, {
+	"position": 9,
+	"dateOfBirth": 91,
+	"nationality": 10,
+	"marketValue": 1300000,
+	"teamId": 32
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 32,
+	"marketValue": 1200000,
+	"teamId": 32
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 32
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 350000,
+	"teamId": 32
+}, {
+	"position": 11,
+	"dateOfBirth": 95,
+	"nationality": 6,
+	"marketValue": 200000,
+	"teamId": 32
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 32
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 32
+}, {
+	"position": 4,
+	"dateOfBirth": 87,
+	"nationality": 10,
+	"marketValue": 2000000,
+	"teamId": 32
+}, {
+	"position": 4,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 32
+}, {
+	"position": 6,
+	"dateOfBirth": 91,
+	"nationality": 27,
+	"marketValue": 1000000,
+	"teamId": 32
+}, {
+	"position": 11,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 32
+}, {
+	"position": 1,
+	"dateOfBirth": 99,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 32
+}, {
+	"position": 3,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 7
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 7
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 33,
+	"marketValue": 10000000,
+	"teamId": 7
+}, {
+	"position": 3,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 3500000,
+	"teamId": 7
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 24,
+	"marketValue": 150000,
+	"teamId": 7
+}, {
+	"position": 4,
+	"dateOfBirth": 87,
+	"nationality": 24,
+	"marketValue": 3500000,
+	"teamId": 7
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 6,
+	"marketValue": 2500000,
+	"teamId": 7
+}, {
+	"position": 4,
+	"dateOfBirth": 80,
+	"nationality": 18,
+	"marketValue": 750000,
+	"teamId": 7
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 2250000,
+	"teamId": 7
+}, {
+	"position": 5,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1750000,
+	"teamId": 7
+}, {
+	"position": 5,
+	"dateOfBirth": 91,
+	"nationality": 16,
+	"marketValue": 2000000,
+	"teamId": 7
+}, {
+	"position": 5,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 7
+}, {
+	"position": 6,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 1750000,
+	"teamId": 7
+}, {
+	"position": 11,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 7
+}, {
+	"position": 7,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 7000000,
+	"teamId": 7
+}, {
+	"position": 11,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 7
+}, {
+	"position": 9,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 4500000,
+	"teamId": 7
+}, {
+	"position": 12,
+	"dateOfBirth": 94,
+	"nationality": 9,
+	"marketValue": 3500000,
+	"teamId": 7
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 4000000,
+	"teamId": 7
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 7
+}, {
+	"position": 6,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 7
+}, {
+	"position": 8,
+	"dateOfBirth": 91,
+	"nationality": 34,
+	"marketValue": 1000000,
+	"teamId": 7
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 31,
+	"marketValue": 10000000,
+	"teamId": 7
+}, {
+	"position": 2,
+	"dateOfBirth": 95,
+	"nationality": 35,
+	"marketValue": 100000,
+	"teamId": 7
+}, {
+	"position": 10,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 7
+}, {
+	"position": 8,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 7
+}, {
+	"position": 9,
+	"dateOfBirth": 98,
+	"nationality": 36,
+	"marketValue": 100000,
+	"teamId": 7
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 8
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 8
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 8
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 2250000,
+	"teamId": 8
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 8
+}, {
+	"position": 9,
+	"dateOfBirth": 87,
+	"nationality": 9,
+	"marketValue": 2000000,
+	"teamId": 8
+}, {
+	"position": 3,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 8
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 8
+}, {
+	"position": 6,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 8
+}, {
+	"position": 4,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 8
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 11,
+	"marketValue": 1500000,
+	"teamId": 8
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 2250000,
+	"teamId": 8
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 37,
+	"marketValue": 5000000,
+	"teamId": 8
+}, {
+	"position": 6,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1750000,
+	"teamId": 8
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 8
+}, {
+	"position": 2,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 8
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 1250000,
+	"teamId": 8
+}, {
+	"position": 9,
+	"dateOfBirth": 93,
+	"nationality": 30,
+	"marketValue": 1500000,
+	"teamId": 8
+}, {
+	"position": 9,
+	"dateOfBirth": 96,
+	"nationality": 38,
+	"marketValue": 250000,
+	"teamId": 8
+}, {
+	"position": 8,
+	"dateOfBirth": 94,
+	"nationality": 25,
+	"marketValue": 1250000,
+	"teamId": 8
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 13,
+	"marketValue": 1000000,
+	"teamId": 8
+}, {
+	"position": 1,
+	"dateOfBirth": 90,
+	"nationality": 14,
+	"marketValue": 1500000,
+	"teamId": 8
+}, {
+	"position": 1,
+	"dateOfBirth": 94,
+	"nationality": 37,
+	"marketValue": 300000,
+	"teamId": 8
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 26,
+	"marketValue": 1500000,
+	"teamId": 8
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 9,
+	"marketValue": 200000,
+	"teamId": 8
+}, {
+	"position": 4,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 8
+}, {
+	"position": 5,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 8
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 8
+}, {
+	"position": 9,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 8
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 26,
+	"marketValue": 2000000,
+	"teamId": 8
+}, {
+	"position": 11,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 13
+}, {
+	"position": 3,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 13
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 13
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 14,
+	"marketValue": 700000,
+	"teamId": 13
+}, {
+	"position": 3,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 13
+}, {
+	"position": 9,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 13
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 13
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 13
+}, {
+	"position": 5,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 13
+}, {
+	"position": 7,
+	"dateOfBirth": 91,
+	"nationality": 39,
+	"marketValue": 900000,
+	"teamId": 13
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 13
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 13
+}, {
+	"position": 9,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 13
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 27,
+	"marketValue": 1500000,
+	"teamId": 13
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 40,
+	"marketValue": 800000,
+	"teamId": 13
+}, {
+	"position": 6,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 13
+}, {
+	"position": 7,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 13
+}, {
+	"position": 10,
+	"dateOfBirth": 89,
+	"nationality": 14,
+	"marketValue": 400000,
+	"teamId": 13
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 41,
+	"marketValue": 400000,
+	"teamId": 13
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 3,
+	"marketValue": 700000,
+	"teamId": 13
+}, {
+	"position": 5,
+	"dateOfBirth": 94,
+	"nationality": 9,
+	"marketValue": 300000,
+	"teamId": 13
+}, {
+	"position": 5,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 13
+}, {
+	"position": 11,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 13
+}, {
+	"position": 9,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 13
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 42,
+	"marketValue": 500000,
+	"teamId": 13
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 1300000,
+	"teamId": 55
+}, {
+	"position": 3,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 900000,
+	"teamId": 55
+}, {
+	"position": 1,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1250000,
+	"teamId": 55
+}, {
+	"position": 4,
+	"dateOfBirth": 85,
+	"nationality": 25,
+	"marketValue": 2000000,
+	"teamId": 55
+}, {
+	"position": 4,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 55
+}, {
+	"position": 2,
+	"dateOfBirth": 83,
+	"nationality": 43,
+	"marketValue": 500000,
+	"teamId": 55
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 55
+}, {
+	"position": 5,
+	"dateOfBirth": 84,
+	"nationality": 9,
+	"marketValue": 750000,
+	"teamId": 55
+}, {
+	"position": 5,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 55
+}, {
+	"position": 6,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 55
+}, {
+	"position": 6,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 55
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 18,
+	"marketValue": 1000000,
+	"teamId": 55
+}, {
+	"position": 7,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 2000000,
+	"teamId": 55
+}, {
+	"position": 9,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 1750000,
+	"teamId": 55
+}, {
+	"position": 12,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 55
+}, {
+	"position": 1,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 55
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 44,
+	"marketValue": 1000000,
+	"teamId": 55
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 55
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 31,
+	"marketValue": 500000,
+	"teamId": 55
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 15,
+	"marketValue": 750000,
+	"teamId": 55
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 34,
+	"marketValue": 1000000,
+	"teamId": 55
+}, {
+	"position": 11,
+	"dateOfBirth": 94,
+	"nationality": 40,
+	"marketValue": 1000000,
+	"teamId": 55
+}, {
+	"position": 12,
+	"dateOfBirth": 87,
+	"nationality": 7,
+	"marketValue": 500000,
+	"teamId": 55
+}, {
+	"position": 13,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 55
+}, {
+	"position": 13,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 55
+}, {
+	"position": 2,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 55
+}, {
+	"position": 5,
+	"dateOfBirth": 85,
+	"nationality": 22,
+	"marketValue": 2500000,
+	"teamId": 55
+}, {
+	"position": 14,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 55
+}, {
+	"position": 8,
+	"dateOfBirth": 87,
+	"nationality": 22,
+	"marketValue": 900000,
+	"teamId": 55
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 22,
+	"marketValue": 350000,
+	"teamId": 55
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 15,
+	"marketValue": 12000000,
+	"teamId": 4
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 10,
+	"marketValue": 8000000,
+	"teamId": 4
+}, {
+	"position": 8,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 25000000,
+	"teamId": 4
+}, {
+	"position": 7,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 10000000,
+	"teamId": 4
+}, {
+	"position": 11,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 28000000,
+	"teamId": 4
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 24,
+	"marketValue": 6000000,
+	"teamId": 4
+}, {
+	"position": 3,
+	"dateOfBirth": 80,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 4
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 4
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 32,
+	"marketValue": 22000000,
+	"teamId": 4
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 33,
+	"marketValue": 8000000,
+	"teamId": 4
+}, {
+	"position": 4,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 12000000,
+	"teamId": 4
+}, {
+	"position": 2,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 9000000,
+	"teamId": 4
+}, {
+	"position": 2,
+	"dateOfBirth": 87,
+	"nationality": 35,
+	"marketValue": 1750000,
+	"teamId": 4
+}, {
+	"position": 5,
+	"dateOfBirth": 85,
+	"nationality": 14,
+	"marketValue": 6000000,
+	"teamId": 4
+}, {
+	"position": 5,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 5000000,
+	"teamId": 4
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 11000000,
+	"teamId": 4
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 18000000,
+	"teamId": 4
+}, {
+	"position": 7,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 15000000,
+	"teamId": 4
+}, {
+	"position": 7,
+	"dateOfBirth": 88,
+	"nationality": 25,
+	"marketValue": 6500000,
+	"teamId": 4
+}, {
+	"position": 11,
+	"dateOfBirth": 89,
+	"nationality": 16,
+	"marketValue": 16000000,
+	"teamId": 4
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 40000000,
+	"teamId": 4
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 45,
+	"marketValue": 45000000,
+	"teamId": 4
+}, {
+	"position": 1,
+	"dateOfBirth": 86,
+	"nationality": 46,
+	"marketValue": 6000000,
+	"teamId": 4
+}, {
+	"position": 11,
+	"dateOfBirth": 98,
+	"nationality": 5,
+	"marketValue": 5000000,
+	"teamId": 4
+}, {
+	"position": 9,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 4
+}, {
+	"position": 9,
+	"dateOfBirth": 97,
+	"nationality": 12,
+	"marketValue": 14000000,
+	"teamId": 4
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 10,
+	"marketValue": 3000000,
+	"teamId": 4
+}, {
+	"position": 7,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 4
+}, {
+	"position": 9,
+	"dateOfBirth": 97,
+	"nationality": 25,
+	"marketValue": 5000000,
+	"teamId": 4
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 12,
+	"marketValue": 2500000,
+	"teamId": 15
+}, {
+	"position": 3,
+	"dateOfBirth": 89,
+	"nationality": 30,
+	"marketValue": 2500000,
+	"teamId": 15
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 10,
+	"marketValue": 2250000,
+	"teamId": 15
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 30,
+	"marketValue": 2000000,
+	"teamId": 15
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 15
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 47,
+	"marketValue": 2500000,
+	"teamId": 15
+}, {
+	"position": 3,
+	"dateOfBirth": 85,
+	"nationality": 47,
+	"marketValue": 700000,
+	"teamId": 15
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 15
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 6000000,
+	"teamId": 15
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 15
+}, {
+	"position": 2,
+	"dateOfBirth": 88,
+	"nationality": 34,
+	"marketValue": 2000000,
+	"teamId": 15
+}, {
+	"position": 2,
+	"dateOfBirth": 91,
+	"nationality": 12,
+	"marketValue": 2500000,
+	"teamId": 15
+}, {
+	"position": 5,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 15
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 7,
+	"marketValue": 2000000,
+	"teamId": 15
+}, {
+	"position": 6,
+	"dateOfBirth": 85,
+	"nationality": 30,
+	"marketValue": 500000,
+	"teamId": 15
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 15
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 24,
+	"marketValue": 3000000,
+	"teamId": 15
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 15
+}, {
+	"position": 11,
+	"dateOfBirth": 92,
+	"nationality": 25,
+	"marketValue": 10000000,
+	"teamId": 15
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 19,
+	"marketValue": 3000000,
+	"teamId": 15
+}, {
+	"position": 9,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 15
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 16,
+	"marketValue": 5500000,
+	"teamId": 15
+}, {
+	"position": 8,
+	"dateOfBirth": 93,
+	"nationality": 10,
+	"marketValue": 6000000,
+	"teamId": 15
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 46,
+	"marketValue": 5500000,
+	"teamId": 15
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 15
+}, {
+	"position": 11,
+	"dateOfBirth": 94,
+	"nationality": 38,
+	"marketValue": 900000,
+	"teamId": 15
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 15
+}, {
+	"position": 11,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 15
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 9,
+	"marketValue": 1500000,
+	"teamId": 15
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 15
+}, {
+	"position": 9,
+	"dateOfBirth": 85,
+	"nationality": 14,
+	"marketValue": 7000000,
+	"teamId": 11
+}, {
+	"position": 1,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 12000000,
+	"teamId": 11
+}, {
+	"position": 11,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 7000000,
+	"teamId": 11
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 10000000,
+	"teamId": 11
+}, {
+	"position": 3,
+	"dateOfBirth": 83,
+	"nationality": 24,
+	"marketValue": 3500000,
+	"teamId": 11
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 48,
+	"marketValue": 2500000,
+	"teamId": 11
+}, {
+	"position": 3,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 11
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 6000000,
+	"teamId": 11
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 24,
+	"marketValue": 25000000,
+	"teamId": 11
+}, {
+	"position": 2,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 11
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 15,
+	"marketValue": 6500000,
+	"teamId": 11
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 11
+}, {
+	"position": 5,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 3500000,
+	"teamId": 11
+}, {
+	"position": 6,
+	"dateOfBirth": 87,
+	"nationality": 6,
+	"marketValue": 17000000,
+	"teamId": 11
+}, {
+	"position": 6,
+	"dateOfBirth": 90,
+	"nationality": 12,
+	"marketValue": 10000000,
+	"teamId": 11
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 49,
+	"marketValue": 500000,
+	"teamId": 11
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 11
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 12000000,
+	"teamId": 11
+}, {
+	"position": 9,
+	"dateOfBirth": 88,
+	"nationality": 47,
+	"marketValue": 6500000,
+	"teamId": 11
+}, {
+	"position": 9,
+	"dateOfBirth": 98,
+	"nationality": 48,
+	"marketValue": 750000,
+	"teamId": 11
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 13,
+	"marketValue": 7500000,
+	"teamId": 11
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 13,
+	"marketValue": 10000000,
+	"teamId": 11
+}, {
+	"position": 9,
+	"dateOfBirth": 90,
+	"nationality": 6,
+	"marketValue": 2000000,
+	"teamId": 11
+}, {
+	"position": 3,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 11
+}, {
+	"position": 4,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 11
+}, {
+	"position": 2,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 11
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 11
+}, {
+	"position": 8,
+	"dateOfBirth": 98,
+	"nationality": 31,
+	"marketValue": 4000000,
+	"teamId": 11
+}, {
+	"position": 8,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 11
+}, {
+	"position": 1,
+	"dateOfBirth": 97,
+	"nationality": 10,
+	"marketValue": 2500000,
+	"teamId": 11
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 30000000,
+	"teamId": 6
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 6
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 6
+}, {
+	"position": 3,
+	"dateOfBirth": 80,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 6
+}, {
+	"position": 3,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 6
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 33,
+	"marketValue": 21000000,
+	"teamId": 6
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 16000000,
+	"teamId": 6
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 6,
+	"marketValue": 3500000,
+	"teamId": 6
+}, {
+	"position": 4,
+	"dateOfBirth": 94,
+	"nationality": 25,
+	"marketValue": 500000,
+	"teamId": 6
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 6
+}, {
+	"position": 6,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 6
+}, {
+	"position": 2,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 6500000,
+	"teamId": 6
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 18,
+	"marketValue": 5000000,
+	"teamId": 6
+}, {
+	"position": 2,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 75000,
+	"teamId": 6
+}, {
+	"position": 5,
+	"dateOfBirth": 88,
+	"nationality": 16,
+	"marketValue": 6000000,
+	"teamId": 6
+}, {
+	"position": 5,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 6
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 50,
+	"marketValue": 8000000,
+	"teamId": 6
+}, {
+	"position": 7,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 4500000,
+	"teamId": 6
+}, {
+	"position": 11,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 12000000,
+	"teamId": 6
+}, {
+	"position": 11,
+	"dateOfBirth": 85,
+	"nationality": 24,
+	"marketValue": 3000000,
+	"teamId": 6
+}, {
+	"position": 9,
+	"dateOfBirth": 84,
+	"nationality": 49,
+	"marketValue": 18000000,
+	"teamId": 6
+}, {
+	"position": 9,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 10000000,
+	"teamId": 6
+}, {
+	"position": 9,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 6
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 27,
+	"marketValue": 5000000,
+	"teamId": 6
+}, {
+	"position": 9,
+	"dateOfBirth": 86,
+	"nationality": 7,
+	"marketValue": 1000000,
+	"teamId": 6
+}, {
+	"position": 12,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 6
+}, {
+	"position": 1,
+	"dateOfBirth": 83,
+	"nationality": 13,
+	"marketValue": 12000000,
+	"teamId": 6
+}, {
+	"position": 2,
+	"dateOfBirth": 91,
+	"nationality": 33,
+	"marketValue": 2000000,
+	"teamId": 1
+}, {
+	"position": 1,
+	"dateOfBirth": 88,
+	"nationality": 51,
+	"marketValue": 1000000,
+	"teamId": 1
+}, {
+	"position": 14,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 2000000,
+	"teamId": 1
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 1
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 10000000,
+	"teamId": 1
+}, {
+	"position": 3,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 1
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 6000000,
+	"teamId": 1
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 30,
+	"marketValue": 3000000,
+	"teamId": 1
+}, {
+	"position": 4,
+	"dateOfBirth": 87,
+	"nationality": 4,
+	"marketValue": 3000000,
+	"teamId": 1
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 3,
+	"marketValue": 1750000,
+	"teamId": 1
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 14000000,
+	"teamId": 1
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 14,
+	"marketValue": 2000000,
+	"teamId": 1
+}, {
+	"position": 5,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 1
+}, {
+	"position": 6,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 1
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 33,
+	"marketValue": 2000000,
+	"teamId": 1
+}, {
+	"position": 8,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 5000000,
+	"teamId": 1
+}, {
+	"position": 9,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 3500000,
+	"teamId": 1
+}, {
+	"position": 1,
+	"dateOfBirth": 88,
+	"nationality": 12,
+	"marketValue": 7000000,
+	"teamId": 1
+}, {
+	"position": 12,
+	"dateOfBirth": 90,
+	"nationality": 16,
+	"marketValue": 1750000,
+	"teamId": 1
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 1
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 12,
+	"marketValue": 2000000,
+	"teamId": 1
+}, {
+	"position": 3,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 1
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 1
+}, {
+	"position": 11,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 1
+}, {
+	"position": 5,
+	"dateOfBirth": 91,
+	"nationality": 9,
+	"marketValue": 750000,
+	"teamId": 16
+}, {
+	"position": 3,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 16
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 52,
+	"marketValue": 5000000,
+	"teamId": 16
+}, {
+	"position": 1,
+	"dateOfBirth": 97,
+	"nationality": 24,
+	"marketValue": 1000000,
+	"teamId": 16
+}, {
+	"position": 3,
+	"dateOfBirth": 87,
+	"nationality": 24,
+	"marketValue": 4500000,
+	"teamId": 16
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 32,
+	"marketValue": 100000,
+	"teamId": 16
+}, {
+	"position": 4,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 16
+}, {
+	"position": 4,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 16
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 16
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 32,
+	"marketValue": 2500000,
+	"teamId": 16
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 3500000,
+	"teamId": 16
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 23,
+	"marketValue": 1500000,
+	"teamId": 16
+}, {
+	"position": 5,
+	"dateOfBirth": 83,
+	"nationality": 13,
+	"marketValue": 1750000,
+	"teamId": 16
+}, {
+	"position": 5,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 16
+}, {
+	"position": 6,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 2000000,
+	"teamId": 16
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 16
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 3500000,
+	"teamId": 16
+}, {
+	"position": 7,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 16
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 21,
+	"marketValue": 750000,
+	"teamId": 16
+}, {
+	"position": 7,
+	"dateOfBirth": 95,
+	"nationality": 47,
+	"marketValue": 100000,
+	"teamId": 16
+}, {
+	"position": 11,
+	"dateOfBirth": 89,
+	"nationality": 35,
+	"marketValue": 5500000,
+	"teamId": 16
+}, {
+	"position": 11,
+	"dateOfBirth": 82,
+	"nationality": 25,
+	"marketValue": 1000000,
+	"teamId": 16
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 16
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 6,
+	"marketValue": 2500000,
+	"teamId": 16
+}, {
+	"position": 1,
+	"dateOfBirth": 87,
+	"nationality": 29,
+	"marketValue": 5000000,
+	"teamId": 16
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 4,
+	"marketValue": 1500000,
+	"teamId": 16
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 35,
+	"marketValue": 1500000,
+	"teamId": 16
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 16
+}, {
+	"position": 9,
+	"dateOfBirth": 90,
+	"nationality": 12,
+	"marketValue": 2500000,
+	"teamId": 16
+}, {
+	"position": 6,
+	"dateOfBirth": 87,
+	"nationality": 33,
+	"marketValue": 1250000,
+	"teamId": 16
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 13,
+	"marketValue": 3500000,
+	"teamId": 16
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 16,
+	"marketValue": 2500000,
+	"teamId": 16
+}, {
+	"position": 12,
+	"dateOfBirth": 93,
+	"nationality": 31,
+	"marketValue": 900000,
+	"teamId": 19
+}, {
+	"position": 8,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 19
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 9,
+	"marketValue": 1000000,
+	"teamId": 19
+}, {
+	"position": 3,
+	"dateOfBirth": 89,
+	"nationality": 39,
+	"marketValue": 4000000,
+	"teamId": 19
+}, {
+	"position": 4,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 19
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 19,
+	"marketValue": 3500000,
+	"teamId": 19
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 6,
+	"marketValue": 1000000,
+	"teamId": 19
+}, {
+	"position": 2,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 19
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 5,
+	"marketValue": 1500000,
+	"teamId": 19
+}, {
+	"position": 6,
+	"dateOfBirth": 84,
+	"nationality": 16,
+	"marketValue": 2000000,
+	"teamId": 19
+}, {
+	"position": 6,
+	"dateOfBirth": 90,
+	"nationality": 33,
+	"marketValue": 1000000,
+	"teamId": 19
+}, {
+	"position": 7,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 19
+}, {
+	"position": 7,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 7000000,
+	"teamId": 19
+}, {
+	"position": 11,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 350000,
+	"teamId": 19
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 33,
+	"marketValue": 1500000,
+	"teamId": 19
+}, {
+	"position": 12,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 19
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 24,
+	"marketValue": 5500000,
+	"teamId": 19
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 13,
+	"marketValue": 3000000,
+	"teamId": 19
+}, {
+	"position": 1,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 19
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 34,
+	"marketValue": 2000000,
+	"teamId": 19
+}, {
+	"position": 6,
+	"dateOfBirth": 93,
+	"nationality": 10,
+	"marketValue": 2000000,
+	"teamId": 19
+}, {
+	"position": 5,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 19
+}, {
+	"position": 11,
+	"dateOfBirth": 89,
+	"nationality": 53,
+	"marketValue": 3750000,
+	"teamId": 19
+}, {
+	"position": 7,
+	"dateOfBirth": 83,
+	"nationality": 40,
+	"marketValue": 1000000,
+	"teamId": 19
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 19
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 54,
+	"marketValue": 4000000,
+	"teamId": 19
+}, {
+	"position": 4,
+	"dateOfBirth": 97,
+	"nationality": 10,
+	"marketValue": 3000000,
+	"teamId": 19
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 28,
+	"marketValue": 1000000,
+	"teamId": 19
+}, {
+	"position": 5,
+	"dateOfBirth": 93,
+	"nationality": 55,
+	"marketValue": 750000,
+	"teamId": 19
+}, {
+	"position": 4,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 19
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 4,
+	"dateOfBirth": 82,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 30,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 56,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 2,
+	"dateOfBirth": 87,
+	"nationality": 12,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 5,
+	"dateOfBirth": 84,
+	"nationality": 57,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 6,
+	"dateOfBirth": 90,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 5,
+	"dateOfBirth": 91,
+	"nationality": 13,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 2,
+	"dateOfBirth": 84,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 9,
+	"dateOfBirth": 86,
+	"nationality": 12,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 1,
+	"dateOfBirth": 86,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 21,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 2,
+	"dateOfBirth": 94,
+	"nationality": 12,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 7,
+	"dateOfBirth": 93,
+	"nationality": 12,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 23,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 3,
+	"dateOfBirth": 84,
+	"nationality": 42,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 1,
+	"dateOfBirth": 88,
+	"nationality": 58,
+	"marketValue": null,
+	"teamId": 58
+}, {
+	"position": 5,
+	"dateOfBirth": 82,
+	"nationality": 27,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 6,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 3,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 2,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 5,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 11,
+	"dateOfBirth": 95,
+	"nationality": 59,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 60,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 9,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 9,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 12,
+	"dateOfBirth": 83,
+	"nationality": 25,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 9,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 4,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 1,
+	"dateOfBirth": 83,
+	"nationality": 31,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 4,
+	"dateOfBirth": 85,
+	"nationality": 10,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 6,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 8,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 31,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 6,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 30,
+	"marketValue": null,
+	"teamId": 29
+}, {
+	"position": 9,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 9
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 9
+}, {
+	"position": 3,
+	"dateOfBirth": 84,
+	"nationality": 26,
+	"marketValue": 2000000,
+	"teamId": 9
+}, {
+	"position": 3,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 9
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 5,
+	"marketValue": 10000000,
+	"teamId": 9
+}, {
+	"position": 6,
+	"dateOfBirth": 88,
+	"nationality": 24,
+	"marketValue": 3500000,
+	"teamId": 9
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 9
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 4000000,
+	"teamId": 9
+}, {
+	"position": 2,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 9
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 41,
+	"marketValue": 2500000,
+	"teamId": 9
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 4500000,
+	"teamId": 9
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 125000,
+	"teamId": 9
+}, {
+	"position": 7,
+	"dateOfBirth": 90,
+	"nationality": 21,
+	"marketValue": 10000000,
+	"teamId": 9
+}, {
+	"position": 7,
+	"dateOfBirth": 87,
+	"nationality": 26,
+	"marketValue": 4000000,
+	"teamId": 9
+}, {
+	"position": 7,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 9
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 24,
+	"marketValue": 3000000,
+	"teamId": 9
+}, {
+	"position": 11,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 9
+}, {
+	"position": 11,
+	"dateOfBirth": 86,
+	"nationality": 6,
+	"marketValue": 400000,
+	"teamId": 9
+}, {
+	"position": 5,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 6000000,
+	"teamId": 9
+}, {
+	"position": 9,
+	"dateOfBirth": 91,
+	"nationality": 16,
+	"marketValue": 3000000,
+	"teamId": 9
+}, {
+	"position": 1,
+	"dateOfBirth": 85,
+	"nationality": 61,
+	"marketValue": 5000000,
+	"teamId": 9
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 9
+}, {
+	"position": 1,
+	"dateOfBirth": 84,
+	"nationality": 18,
+	"marketValue": 2500000,
+	"teamId": 9
+}, {
+	"position": 1,
+	"dateOfBirth": 86,
+	"nationality": 44,
+	"marketValue": 500000,
+	"teamId": 9
+}, {
+	"position": 8,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 9
+}, {
+	"position": 11,
+	"dateOfBirth": 94,
+	"nationality": 41,
+	"marketValue": 4500000,
+	"teamId": 9
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 10,
+	"marketValue": 300000,
+	"teamId": 22
+}, {
+	"position": 7,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 22
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 22
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 22
+}, {
+	"position": 3,
+	"dateOfBirth": 80,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 22
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 22
+}, {
+	"position": 3,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 22
+}, {
+	"position": 4,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 22
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 9,
+	"marketValue": 400000,
+	"teamId": 22
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 22
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 650000,
+	"teamId": 22
+}, {
+	"position": 2,
+	"dateOfBirth": 85,
+	"nationality": 41,
+	"marketValue": 400000,
+	"teamId": 22
+}, {
+	"position": 2,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 22
+}, {
+	"position": 4,
+	"dateOfBirth": 81,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 22
+}, {
+	"position": 4,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 22
+}, {
+	"position": 6,
+	"dateOfBirth": 80,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 22
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 22
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 12,
+	"marketValue": 350000,
+	"teamId": 22
+}, {
+	"position": 7,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 22
+}, {
+	"position": 10,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 22
+}, {
+	"position": 2,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 22
+}, {
+	"position": 9,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 22
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 22
+}, {
+	"position": 9,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 22
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 13,
+	"marketValue": 1000000,
+	"teamId": 22
+}, {
+	"position": 8,
+	"dateOfBirth": 90,
+	"nationality": 62,
+	"marketValue": 400000,
+	"teamId": 22
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 13,
+	"marketValue": null,
+	"teamId": 22
+}, {
+	"position": 1,
+	"dateOfBirth": 90,
+	"nationality": 63,
+	"marketValue": 400000,
+	"teamId": 22
+}, {
+	"position": 1,
+	"dateOfBirth": 81,
+	"nationality": 1,
+	"marketValue": 350000,
+	"teamId": 22
+}, {
+	"position": 1,
+	"dateOfBirth": 87,
+	"nationality": 7,
+	"marketValue": 350000,
+	"teamId": 22
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 59,
+	"marketValue": 200000,
+	"teamId": 22
+}, {
+	"position": 2,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 22
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 5,
+	"marketValue": 500000,
+	"teamId": 22
+}, {
+	"position": 4,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 22
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 22
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 10,
+	"marketValue": 650000,
+	"teamId": 22
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 22
+}, {
+	"position": 6,
+	"dateOfBirth": 89,
+	"nationality": 14,
+	"marketValue": 900000,
+	"teamId": 33
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1200000,
+	"teamId": 33
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 24,
+	"marketValue": 1300000,
+	"teamId": 33
+}, {
+	"position": 2,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 1300000,
+	"teamId": 33
+}, {
+	"position": 5,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 33
+}, {
+	"position": 7,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 1200000,
+	"teamId": 33
+}, {
+	"position": 14,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 33
+}, {
+	"position": 9,
+	"dateOfBirth": 94,
+	"nationality": 24,
+	"marketValue": 1500000,
+	"teamId": 33
+}, {
+	"position": 8,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 650000,
+	"teamId": 33
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 24,
+	"marketValue": 350000,
+	"teamId": 33
+}, {
+	"position": 3,
+	"dateOfBirth": 86,
+	"nationality": 18,
+	"marketValue": 400000,
+	"teamId": 33
+}, {
+	"position": 5,
+	"dateOfBirth": 91,
+	"nationality": 23,
+	"marketValue": 900000,
+	"teamId": 33
+}, {
+	"position": 10,
+	"dateOfBirth": 89,
+	"nationality": 4,
+	"marketValue": 700000,
+	"teamId": 33
+}, {
+	"position": 12,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 550000,
+	"teamId": 33
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 33
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 34,
+	"marketValue": 1200000,
+	"teamId": 33
+}, {
+	"position": 2,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 33
+}, {
+	"position": 1,
+	"dateOfBirth": 84,
+	"nationality": 64,
+	"marketValue": 300000,
+	"teamId": 33
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 26,
+	"marketValue": 1100000,
+	"teamId": 33
+}, {
+	"position": 6,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 33
+}, {
+	"position": 9,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 33
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 7,
+	"marketValue": 1000000,
+	"teamId": 33
+}, {
+	"position": 1,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 33
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 34,
+	"marketValue": 1100000,
+	"teamId": 33
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 3
+}, {
+	"position": 1,
+	"dateOfBirth": 94,
+	"nationality": 39,
+	"marketValue": 1000000,
+	"teamId": 3
+}, {
+	"position": 9,
+	"dateOfBirth": 88,
+	"nationality": 17,
+	"marketValue": 800000,
+	"teamId": 3
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 20000000,
+	"teamId": 3
+}, {
+	"position": 3,
+	"dateOfBirth": 84,
+	"nationality": 9,
+	"marketValue": 1250000,
+	"teamId": 3
+}, {
+	"position": 5,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 1750000,
+	"teamId": 3
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 16000000,
+	"teamId": 3
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 25,
+	"marketValue": 20000000,
+	"teamId": 3
+}, {
+	"position": 5,
+	"dateOfBirth": 95,
+	"nationality": 31,
+	"marketValue": 8000000,
+	"teamId": 3
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 32,
+	"marketValue": 6500000,
+	"teamId": 3
+}, {
+	"position": 4,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 16000000,
+	"teamId": 3
+}, {
+	"position": 4,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 3
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 6,
+	"marketValue": 15000000,
+	"teamId": 3
+}, {
+	"position": 5,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 3
+}, {
+	"position": 6,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 18000000,
+	"teamId": 3
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 6,
+	"marketValue": 2000000,
+	"teamId": 3
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 11,
+	"marketValue": 12000000,
+	"teamId": 3
+}, {
+	"position": 11,
+	"dateOfBirth": 94,
+	"nationality": 25,
+	"marketValue": 18000000,
+	"teamId": 3
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 22,
+	"marketValue": 500000,
+	"teamId": 3
+}, {
+	"position": 2,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 1250000,
+	"teamId": 3
+}, {
+	"position": 8,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 16000000,
+	"teamId": 3
+}, {
+	"position": 9,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 22000000,
+	"teamId": 3
+}, {
+	"position": 7,
+	"dateOfBirth": 90,
+	"nationality": 4,
+	"marketValue": 12000000,
+	"teamId": 3
+}, {
+	"position": 12,
+	"dateOfBirth": 91,
+	"nationality": 24,
+	"marketValue": 5000000,
+	"teamId": 3
+}, {
+	"position": 12,
+	"dateOfBirth": 93,
+	"nationality": 35,
+	"marketValue": 500000,
+	"teamId": 3
+}, {
+	"position": 1,
+	"dateOfBirth": 88,
+	"nationality": 53,
+	"marketValue": 22000000,
+	"teamId": 3
+}, {
+	"position": 1,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 4000000,
+	"teamId": 3
+}, {
+	"position": 6,
+	"dateOfBirth": 88,
+	"nationality": 9,
+	"marketValue": 6000000,
+	"teamId": 3
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 9,
+	"marketValue": 15000000,
+	"teamId": 3
+}, {
+	"position": 4,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 3
+}, {
+	"position": 7,
+	"dateOfBirth": 99,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 3
+}, {
+	"position": 11,
+	"dateOfBirth": 99,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 3
+}, {
+	"position": 8,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 1250000,
+	"teamId": 2
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 1750000,
+	"teamId": 2
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 31,
+	"marketValue": 9000000,
+	"teamId": 2
+}, {
+	"position": 7,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 5000000,
+	"teamId": 2
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 5500000,
+	"teamId": 2
+}, {
+	"position": 3,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 2
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 24,
+	"marketValue": 4500000,
+	"teamId": 2
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 12000000,
+	"teamId": 2
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 18,
+	"marketValue": 2750000,
+	"teamId": 2
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 35,
+	"marketValue": 1500000,
+	"teamId": 2
+}, {
+	"position": 2,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 2
+}, {
+	"position": 5,
+	"dateOfBirth": 92,
+	"nationality": 21,
+	"marketValue": 3500000,
+	"teamId": 2
+}, {
+	"position": 6,
+	"dateOfBirth": 86,
+	"nationality": 14,
+	"marketValue": 2500000,
+	"teamId": 2
+}, {
+	"position": 6,
+	"dateOfBirth": 87,
+	"nationality": 24,
+	"marketValue": 2500000,
+	"teamId": 2
+}, {
+	"position": 6,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 4000000,
+	"teamId": 2
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 4000000,
+	"teamId": 2
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 26,
+	"marketValue": 1250000,
+	"teamId": 2
+}, {
+	"position": 8,
+	"dateOfBirth": 91,
+	"nationality": 24,
+	"marketValue": 1750000,
+	"teamId": 2
+}, {
+	"position": 9,
+	"dateOfBirth": 90,
+	"nationality": 34,
+	"marketValue": 750000,
+	"teamId": 2
+}, {
+	"position": 8,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 2
+}, {
+	"position": 9,
+	"dateOfBirth": 89,
+	"nationality": 11,
+	"marketValue": 6000000,
+	"teamId": 2
+}, {
+	"position": 1,
+	"dateOfBirth": 87,
+	"nationality": 40,
+	"marketValue": 1500000,
+	"teamId": 2
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 2
+}, {
+	"position": 1,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 2
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 2750000,
+	"teamId": 2
+}, {
+	"position": 7,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 2
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 35,
+	"marketValue": 200000,
+	"teamId": 2
+}, {
+	"position": 3,
+	"dateOfBirth": 96,
+	"nationality": 31,
+	"marketValue": 300000,
+	"teamId": 2
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 24,
+	"marketValue": 100000,
+	"teamId": 2
+}, {
+	"position": 7,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 2
+}, {
+	"position": 11,
+	"dateOfBirth": 95,
+	"nationality": 25,
+	"marketValue": 125000,
+	"teamId": 2
+}, {
+	"position": 5,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 44
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 17,
+	"marketValue": 550000,
+	"teamId": 44
+}, {
+	"position": 6,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 44
+}, {
+	"position": 3,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 44
+}, {
+	"position": 2,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 44
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 13,
+	"marketValue": 400000,
+	"teamId": 44
+}, {
+	"position": 4,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 44
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 550000,
+	"teamId": 44
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 44
+}, {
+	"position": 6,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 900000,
+	"teamId": 44
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 44
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 44
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 44
+}, {
+	"position": 8,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 900000,
+	"teamId": 44
+}, {
+	"position": 9,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 44
+}, {
+	"position": 12,
+	"dateOfBirth": 88,
+	"nationality": 12,
+	"marketValue": 450000,
+	"teamId": 44
+}, {
+	"position": 5,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 44
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 26,
+	"marketValue": 600000,
+	"teamId": 44
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 44
+}, {
+	"position": 3,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 44
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 44
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 44
+}, {
+	"position": 3,
+	"dateOfBirth": 98,
+	"nationality": 14,
+	"marketValue": 125000,
+	"teamId": 44
+}, {
+	"position": 4,
+	"dateOfBirth": 98,
+	"nationality": 18,
+	"marketValue": 100000,
+	"teamId": 44
+}, {
+	"position": 7,
+	"dateOfBirth": 95,
+	"nationality": 9,
+	"marketValue": 600000,
+	"teamId": 44
+}, {
+	"position": 9,
+	"dateOfBirth": 96,
+	"nationality": 23,
+	"marketValue": 500000,
+	"teamId": 44
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 24,
+	"marketValue": 350000,
+	"teamId": 28
+}, {
+	"position": 5,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 900000,
+	"teamId": 28
+}, {
+	"position": 10,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 28
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 350000,
+	"teamId": 28
+}, {
+	"position": 6,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 650000,
+	"teamId": 28
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 28
+}, {
+	"position": 4,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 28
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 31,
+	"marketValue": 700000,
+	"teamId": 28
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 1300000,
+	"teamId": 28
+}, {
+	"position": 5,
+	"dateOfBirth": 87,
+	"nationality": 9,
+	"marketValue": 650000,
+	"teamId": 28
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 31,
+	"marketValue": 1700000,
+	"teamId": 28
+}, {
+	"position": 2,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 28
+}, {
+	"position": 6,
+	"dateOfBirth": 80,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 28
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 38,
+	"marketValue": 900000,
+	"teamId": 28
+}, {
+	"position": 9,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 28
+}, {
+	"position": 8,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 28
+}, {
+	"position": 12,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 28
+}, {
+	"position": 12,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 800000,
+	"teamId": 28
+}, {
+	"position": 6,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 28
+}, {
+	"position": 3,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 28
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 9,
+	"marketValue": 1000000,
+	"teamId": 28
+}, {
+	"position": 14,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 28
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 30,
+	"marketValue": 700000,
+	"teamId": 28
+}, {
+	"position": 4,
+	"dateOfBirth": 83,
+	"nationality": 9,
+	"marketValue": 500000,
+	"teamId": 28
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 28
+}, {
+	"position": 3,
+	"dateOfBirth": 81,
+	"nationality": 9,
+	"marketValue": 200000,
+	"teamId": 28
+}, {
+	"position": 2,
+	"dateOfBirth": 94,
+	"nationality": 30,
+	"marketValue": 400000,
+	"teamId": 28
+}, {
+	"position": 2,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 28
+}, {
+	"position": 5,
+	"dateOfBirth": 84,
+	"nationality": 4,
+	"marketValue": 600000,
+	"teamId": 14
+}, {
+	"position": 3,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 14
+}, {
+	"position": 14,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 1200000,
+	"teamId": 14
+}, {
+	"position": 7,
+	"dateOfBirth": 85,
+	"nationality": 38,
+	"marketValue": 550000,
+	"teamId": 14
+}, {
+	"position": 6,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 14
+}, {
+	"position": 3,
+	"dateOfBirth": 79,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 14
+}, {
+	"position": 3,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 14
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 13,
+	"marketValue": 1000000,
+	"teamId": 14
+}, {
+	"position": 6,
+	"dateOfBirth": 92,
+	"nationality": 21,
+	"marketValue": 750000,
+	"teamId": 14
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 26,
+	"marketValue": 900000,
+	"teamId": 14
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 14
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 41,
+	"marketValue": 500000,
+	"teamId": 14
+}, {
+	"position": 1,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 14
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 27,
+	"marketValue": 800000,
+	"teamId": 14
+}, {
+	"position": 1,
+	"dateOfBirth": 89,
+	"nationality": 9,
+	"marketValue": 2000000,
+	"teamId": 14
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 14
+}, {
+	"position": 8,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 14
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 9,
+	"marketValue": 900000,
+	"teamId": 14
+}, {
+	"position": 2,
+	"dateOfBirth": 87,
+	"nationality": 20,
+	"marketValue": 1000000,
+	"teamId": 14
+}, {
+	"position": 8,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 175000,
+	"teamId": 14
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 14
+}, {
+	"position": 9,
+	"dateOfBirth": 88,
+	"nationality": 52,
+	"marketValue": 700000,
+	"teamId": 14
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 14
+}, {
+	"position": 4,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 14
+}, {
+	"position": 6,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 14
+}, {
+	"position": 5,
+	"dateOfBirth": 85,
+	"nationality": 12,
+	"marketValue": 7500000,
+	"teamId": 57
+}, {
+	"position": 1,
+	"dateOfBirth": 93,
+	"nationality": 12,
+	"marketValue": 1000000,
+	"teamId": 57
+}, {
+	"position": 4,
+	"dateOfBirth": 98,
+	"nationality": 14,
+	"marketValue": 1500000,
+	"teamId": 57
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 24,
+	"marketValue": 35000000,
+	"teamId": 57
+}, {
+	"position": 3,
+	"dateOfBirth": 82,
+	"nationality": 21,
+	"marketValue": 12000000,
+	"teamId": 57
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 46,
+	"marketValue": 8000000,
+	"teamId": 57
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 19,
+	"marketValue": 1500000,
+	"teamId": 57
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 42,
+	"marketValue": 500000,
+	"teamId": 57
+}, {
+	"position": 4,
+	"dateOfBirth": 85,
+	"nationality": 12,
+	"marketValue": 22000000,
+	"teamId": 57
+}, {
+	"position": 4,
+	"dateOfBirth": 90,
+	"nationality": 6,
+	"marketValue": 12000000,
+	"teamId": 57
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 42,
+	"marketValue": 12000000,
+	"teamId": 57
+}, {
+	"position": 4,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 10000000,
+	"teamId": 57
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 42,
+	"marketValue": 1500000,
+	"teamId": 57
+}, {
+	"position": 2,
+	"dateOfBirth": 86,
+	"nationality": 10,
+	"marketValue": 15000000,
+	"teamId": 57
+}, {
+	"position": 2,
+	"dateOfBirth": 89,
+	"nationality": 42,
+	"marketValue": 13000000,
+	"teamId": 57
+}, {
+	"position": 5,
+	"dateOfBirth": 95,
+	"nationality": 10,
+	"marketValue": 18000000,
+	"teamId": 57
+}, {
+	"position": 5,
+	"dateOfBirth": 92,
+	"nationality": 42,
+	"marketValue": 9000000,
+	"teamId": 57
+}, {
+	"position": 6,
+	"dateOfBirth": 91,
+	"nationality": 12,
+	"marketValue": 13000000,
+	"teamId": 57
+}, {
+	"position": 6,
+	"dateOfBirth": 92,
+	"nationality": 65,
+	"marketValue": 8500000,
+	"teamId": 57
+}, {
+	"position": 7,
+	"dateOfBirth": 90,
+	"nationality": 66,
+	"marketValue": 35000000,
+	"teamId": 57
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 42,
+	"marketValue": 23000000,
+	"teamId": 57
+}, {
+	"position": 7,
+	"dateOfBirth": 84,
+	"nationality": 10,
+	"marketValue": 20000000,
+	"teamId": 57
+}, {
+	"position": 11,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 50000000,
+	"teamId": 57
+}, {
+	"position": 8,
+	"dateOfBirth": 96,
+	"nationality": 7,
+	"marketValue": 4000000,
+	"teamId": 57
+}, {
+	"position": 9,
+	"dateOfBirth": 93,
+	"nationality": 42,
+	"marketValue": 20000000,
+	"teamId": 57
+}, {
+	"position": 8,
+	"dateOfBirth": 88,
+	"nationality": 11,
+	"marketValue": 55000000,
+	"teamId": 57
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 57
+}, {
+	"position": 9,
+	"dateOfBirth": 89,
+	"nationality": 42,
+	"marketValue": 22000000,
+	"teamId": 57
+}, {
+	"position": 1,
+	"dateOfBirth": 86,
+	"nationality": 12,
+	"marketValue": 25000000,
+	"teamId": 57
+}, {
+	"position": 1,
+	"dateOfBirth": 90,
+	"nationality": 42,
+	"marketValue": 17000000,
+	"teamId": 57
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 42,
+	"marketValue": 1000000,
+	"teamId": 57
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 24
+}, {
+	"position": 4,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 24
+}, {
+	"position": 3,
+	"dateOfBirth": 84,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 24
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 24
+}, {
+	"position": 6,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 24
+}, {
+	"position": 2,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 24
+}, {
+	"position": 5,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 24
+}, {
+	"position": 7,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 24
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 9,
+	"marketValue": 400000,
+	"teamId": 24
+}, {
+	"position": 14,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 24
+}, {
+	"position": 9,
+	"dateOfBirth": 94,
+	"nationality": 67,
+	"marketValue": 500000,
+	"teamId": 24
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 24
+}, {
+	"position": 1,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 2000000,
+	"teamId": 24
+}, {
+	"position": 1,
+	"dateOfBirth": 84,
+	"nationality": 61,
+	"marketValue": 450000,
+	"teamId": 24
+}, {
+	"position": 11,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 24
+}, {
+	"position": 10,
+	"dateOfBirth": 93,
+	"nationality": 5,
+	"marketValue": 300000,
+	"teamId": 24
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 24
+}, {
+	"position": 6,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 24
+}, {
+	"position": 8,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 24
+}, {
+	"position": 3,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 24
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 25,
+	"marketValue": 100000,
+	"teamId": 24
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 13,
+	"marketValue": 800000,
+	"teamId": 24
+}, {
+	"position": 6,
+	"dateOfBirth": 97,
+	"nationality": 16,
+	"marketValue": 100000,
+	"teamId": 24
+}, {
+	"position": 1,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 24
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 24
+}, {
+	"position": 2,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 24
+}, {
+	"position": 7,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 24
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 48,
+	"marketValue": 600000,
+	"teamId": 24
+}, {
+	"position": 1,
+	"dateOfBirth": 95,
+	"nationality": 25,
+	"marketValue": 150000,
+	"teamId": 24
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 5,
+	"marketValue": 100000,
+	"teamId": 24
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 36
+}, {
+	"position": 4,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 36
+}, {
+	"position": 2,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 900000,
+	"teamId": 36
+}, {
+	"position": 4,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1200000,
+	"teamId": 36
+}, {
+	"position": 5,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 1100000,
+	"teamId": 36
+}, {
+	"position": 5,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 36
+}, {
+	"position": 6,
+	"dateOfBirth": 86,
+	"nationality": 12,
+	"marketValue": 900000,
+	"teamId": 36
+}, {
+	"position": 7,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 36
+}, {
+	"position": 9,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 250000,
+	"teamId": 36
+}, {
+	"position": 11,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 950000,
+	"teamId": 36
+}, {
+	"position": 9,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 36
+}, {
+	"position": 12,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 450000,
+	"teamId": 36
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 900000,
+	"teamId": 36
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 36
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 9,
+	"marketValue": 800000,
+	"teamId": 36
+}, {
+	"position": 11,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 36
+}, {
+	"position": 1,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 36
+}, {
+	"position": 7,
+	"dateOfBirth": 94,
+	"nationality": 9,
+	"marketValue": 600000,
+	"teamId": 36
+}, {
+	"position": 6,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": 600000,
+	"teamId": 36
+}, {
+	"position": 4,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 200000,
+	"teamId": 36
+}, {
+	"position": 11,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 36
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 2,
+	"marketValue": 400000,
+	"teamId": 36
+}, {
+	"position": 3,
+	"dateOfBirth": 92,
+	"nationality": 14,
+	"marketValue": 150000,
+	"teamId": 36
+}, {
+	"position": 3,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 36
+}, {
+	"position": 4,
+	"dateOfBirth": 95,
+	"nationality": 14,
+	"marketValue": 1500000,
+	"teamId": 36
+}, {
+	"position": 4,
+	"dateOfBirth": 99,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 36
+}, {
+	"position": 2,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 125000,
+	"teamId": 36
+}, {
+	"position": 2,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 36
+}, {
+	"position": 6,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 36
+}, {
+	"position": 7,
+	"dateOfBirth": 95,
+	"nationality": 5,
+	"marketValue": 125000,
+	"teamId": 36
+}, {
+	"position": 11,
+	"dateOfBirth": 98,
+	"nationality": 68,
+	"marketValue": 125000,
+	"teamId": 36
+}, {
+	"position": 8,
+	"dateOfBirth": 98,
+	"nationality": 32,
+	"marketValue": 200000,
+	"teamId": 36
+}, {
+	"position": 14,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 3,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 69,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 4,
+	"dateOfBirth": 79,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 6,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 4,
+	"dateOfBirth": 80,
+	"nationality": 19,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 7,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 10,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 11,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 11,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 8,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 8,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 11,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 9,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 12,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 8,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 9,
+	"dateOfBirth": 80,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 2,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 50
+}, {
+	"position": 6,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 20
+}, {
+	"position": 5,
+	"dateOfBirth": 91,
+	"nationality": 26,
+	"marketValue": 550000,
+	"teamId": 20
+}, {
+	"position": 3,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 20
+}, {
+	"position": 3,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 20
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 1300000,
+	"teamId": 20
+}, {
+	"position": 4,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 550000,
+	"teamId": 20
+}, {
+	"position": 4,
+	"dateOfBirth": 93,
+	"nationality": 1,
+	"marketValue": 1300000,
+	"teamId": 20
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 20
+}, {
+	"position": 6,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 20
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 20
+}, {
+	"position": 7,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 20
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 100000,
+	"teamId": 20
+}, {
+	"position": 12,
+	"dateOfBirth": 95,
+	"nationality": 35,
+	"marketValue": 400000,
+	"teamId": 20
+}, {
+	"position": 8,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 175000,
+	"teamId": 20
+}, {
+	"position": 1,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 20
+}, {
+	"position": 1,
+	"dateOfBirth": 87,
+	"nationality": 70,
+	"marketValue": 800000,
+	"teamId": 20
+}, {
+	"position": 8,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 550000,
+	"teamId": 20
+}, {
+	"position": 9,
+	"dateOfBirth": 87,
+	"nationality": 14,
+	"marketValue": 900000,
+	"teamId": 20
+}, {
+	"position": 5,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": 700000,
+	"teamId": 20
+}, {
+	"position": 1,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 20
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 20
+}, {
+	"position": 3,
+	"dateOfBirth": 97,
+	"nationality": 1,
+	"marketValue": 150000,
+	"teamId": 20
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 16,
+	"marketValue": 800000,
+	"teamId": 20
+}, {
+	"position": 1,
+	"dateOfBirth": 91,
+	"nationality": 5,
+	"marketValue": 450000,
+	"teamId": 20
+}, {
+	"position": 2,
+	"dateOfBirth": 95,
+	"nationality": 24,
+	"marketValue": 200000,
+	"teamId": 20
+}, {
+	"position": 4,
+	"dateOfBirth": 97,
+	"nationality": 30,
+	"marketValue": 150000,
+	"teamId": 20
+}, {
+	"position": 9,
+	"dateOfBirth": 94,
+	"nationality": 25,
+	"marketValue": 4000000,
+	"teamId": 20
+}, {
+	"position": 1,
+	"dateOfBirth": 78,
+	"nationality": 49,
+	"marketValue": 1000000,
+	"teamId": 12
+}, {
+	"position": 9,
+	"dateOfBirth": 91,
+	"nationality": 18,
+	"marketValue": 1000000,
+	"teamId": 12
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 1000000,
+	"teamId": 12
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 33,
+	"marketValue": 500000,
+	"teamId": 12
+}, {
+	"position": 4,
+	"dateOfBirth": 87,
+	"nationality": 37,
+	"marketValue": 4000000,
+	"teamId": 12
+}, {
+	"position": 7,
+	"dateOfBirth": 89,
+	"nationality": 71,
+	"marketValue": 2500000,
+	"teamId": 12
+}, {
+	"position": 4,
+	"dateOfBirth": 89,
+	"nationality": 37,
+	"marketValue": 2000000,
+	"teamId": 12
+}, {
+	"position": 4,
+	"dateOfBirth": 85,
+	"nationality": 39,
+	"marketValue": 2000000,
+	"teamId": 12
+}, {
+	"position": 3,
+	"dateOfBirth": 79,
+	"nationality": 21,
+	"marketValue": 500000,
+	"teamId": 12
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 47,
+	"marketValue": 3000000,
+	"teamId": 12
+}, {
+	"position": 3,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": 2500000,
+	"teamId": 12
+}, {
+	"position": 3,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 12
+}, {
+	"position": 3,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 300000,
+	"teamId": 12
+}, {
+	"position": 2,
+	"dateOfBirth": 88,
+	"nationality": 19,
+	"marketValue": 3000000,
+	"teamId": 12
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 12
+}, {
+	"position": 2,
+	"dateOfBirth": 96,
+	"nationality": 24,
+	"marketValue": 1000000,
+	"teamId": 12
+}, {
+	"position": 5,
+	"dateOfBirth": 86,
+	"nationality": 21,
+	"marketValue": 2750000,
+	"teamId": 12
+}, {
+	"position": 6,
+	"dateOfBirth": 89,
+	"nationality": 1,
+	"marketValue": 1500000,
+	"teamId": 12
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 12
+}, {
+	"position": 7,
+	"dateOfBirth": 80,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 12
+}, {
+	"position": 11,
+	"dateOfBirth": 87,
+	"nationality": 9,
+	"marketValue": 7000000,
+	"teamId": 12
+}, {
+	"position": 9,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": 3000000,
+	"teamId": 12
+}, {
+	"position": 11,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 500000,
+	"teamId": 12
+}, {
+	"position": 6,
+	"dateOfBirth": 95,
+	"nationality": 9,
+	"marketValue": 4000000,
+	"teamId": 12
+}, {
+	"position": 1,
+	"dateOfBirth": 90,
+	"nationality": 5,
+	"marketValue": 2500000,
+	"teamId": 12
+}, {
+	"position": 8,
+	"dateOfBirth": 94,
+	"nationality": 72,
+	"marketValue": 400000,
+	"teamId": 12
+}, {
+	"position": 5,
+	"dateOfBirth": 95,
+	"nationality": 1,
+	"marketValue": 2000000,
+	"teamId": 12
+}, {
+	"position": 12,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 8000000,
+	"teamId": 12
+}, {
+	"position": 2,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": 350000,
+	"teamId": 12
+}, {
+	"position": 6,
+	"dateOfBirth": 91,
+	"nationality": 32,
+	"marketValue": 1500000,
+	"teamId": 12
+}, {
+	"position": 8,
+	"dateOfBirth": 92,
+	"nationality": 9,
+	"marketValue": 4500000,
+	"teamId": 12
+}, {
+	"position": 9,
+	"dateOfBirth": 88,
+	"nationality": 1,
+	"marketValue": 750000,
+	"teamId": 12
+}, {
+	"position": 1,
+	"dateOfBirth": 98,
+	"nationality": 1,
+	"marketValue": 400000,
+	"teamId": 12
+}, {
+	"position": 1,
+	"dateOfBirth": 85,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 7,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 15,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 3,
+	"dateOfBirth": 82,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 3,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 4,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 4,
+	"dateOfBirth": 79,
+	"nationality": 18,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 2,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 5,
+	"dateOfBirth": 90,
+	"nationality": 73,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 5,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 6,
+	"dateOfBirth": 89,
+	"nationality": 17,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 6,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 6,
+	"dateOfBirth": 83,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 6,
+	"dateOfBirth": 83,
+	"nationality": 44,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 7,
+	"dateOfBirth": 87,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 7,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 10,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 14,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 11,
+	"dateOfBirth": 86,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 9,
+	"dateOfBirth": 91,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 8,
+	"dateOfBirth": 96,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 1,
+	"dateOfBirth": 86,
+	"nationality": 7,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 1,
+	"dateOfBirth": 90,
+	"nationality": 50,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 1,
+	"dateOfBirth": 90,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 1,
+	"dateOfBirth": 92,
+	"nationality": 1,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 3,
+	"dateOfBirth": 94,
+	"nationality": 37,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 2,
+	"dateOfBirth": 92,
+	"nationality": 25,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 5,
+	"dateOfBirth": 91,
+	"nationality": 24,
+	"marketValue": null,
+	"teamId": 25
+}, {
+	"position": 9,
+	"dateOfBirth": 93,
+	"nationality": 74,
+	"marketValue": null,
+	"teamId": 25
+}]
