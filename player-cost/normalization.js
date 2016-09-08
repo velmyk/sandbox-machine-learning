@@ -5,7 +5,19 @@ const
 fs.readFile('./players.json', 'utf8', (err, data) => {
 	const players = JSON.parse(data);
 
-	const mappedPlayers = players.map(player => {
+	const mappedPlayers = players
+		.filter(filterNoPrice)
+		.map(normalizeFields);
+
+	console.log(mappedPlayers.length);
+
+	fs.writeFile('./mappedPlayers.json', JSON.stringify(mappedPlayers));
+
+	function filterNoPrice(player) {
+		return player.marketValue;
+	}
+
+	function normalizeFields(player) {
 		return {
 			position: player.position && normalizer.positionsMap[player.position],
 			dateOfBirth: player.dateOfBirth && normalizer.date(player.dateOfBirth),
@@ -13,7 +25,5 @@ fs.readFile('./players.json', 'utf8', (err, data) => {
 			marketValue: player.marketValue && normalizer.price(player.marketValue),
 			teamId: player.teamId
 		};
-	});
-
-	fs.writeFile('./mappedPlayers.json', JSON.stringify(mappedPlayers));
+	}
 });

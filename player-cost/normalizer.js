@@ -3,8 +3,10 @@ function date(stringDate) {
 }
 
 function price(stringPrice) {
-	return stringPrice && Number(stringPrice.replace(/\D/g, ''));
+	return stringPrice && Number(stringPrice.replace(/\D/g, ''))/100000000;
 }
+
+function nationality
 
 const nationalityMap = {
 	Germany: 1,
