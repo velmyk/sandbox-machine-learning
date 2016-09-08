@@ -37,7 +37,7 @@ function applyTeamToPlayer(teamId, players) {
 
 function writeDataToFile(data) {
 	const players = JSON.stringify(data);
-	fs.writeFile('./players.json', players, err => {
+	fs.writeFile('../data/sourse.json', players, err => {
 		if (err) console.error(err);
 	});
 }

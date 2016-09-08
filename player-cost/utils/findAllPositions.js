@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-fs.readFile('./players.json', 'utf8', (err, data) => {
+fs.readFile('../data/source.json', 'utf8', (err, data) => {
 	const players = JSON.parse(data);
 	const positions = players.reduce((all, player)  => {
 		return all.indexOf(player.position) < 0

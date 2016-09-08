@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/undersportstheory/sandbox-player-cost#readme",
   "dependencies": {
-    "node-rest-client": "2.0.1"
+    "mnist": "1.0.5",
+    "node-rest-client": "2.0.1",
+    "synaptic": "1.0.8"
   }
 }
