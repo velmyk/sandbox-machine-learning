@@ -1,0 +1,24 @@
+{
+  "name": "my-sandbox-player-cost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dataFetching.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undersportstheory/sandbox-player-cost.git"
+  },
+  "author": "velmyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undersportstheory/sandbox-player-cost/issues"
+  },
+  "homepage": "https://github.com/undersportstheory/sandbox-player-cost#readme",
+  "dependencies": {
+    "mnist": "1.0.5",
+    "node-rest-client": "2.0.1",
+    "synaptic": "1.0.8"
+  }
+}
