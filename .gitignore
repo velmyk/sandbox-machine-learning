@@ -41,3 +41,6 @@ jspm_packages
 
 # Specific folders
 courses/coursera
+
+# Jupyter files and folders
+.ipynb_checkpoints
